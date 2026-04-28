@@ -16,3 +16,6 @@ __pycache__/
 
 # 环境变量文件
 .env
+
+# Claude Code 配置
+.claude/
