@@ -1,0 +1,2 @@
+# Agent 数据源配置
+external_data_path: data/external/records.csv  # 外部知识库 CSV 数据文件路径

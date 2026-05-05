@@ -1,0 +1,4 @@
+# 提示词模板文件路径配置
+main_prompt_path: prompts/main_prompt.txt              # 主对话提示词模板路径
+rag_summarize_prompt_path: prompts/rag_summarize.txt   # RAG 摘要提示词模板路径
+report_prompt_path: prompts/report_prompt.txt           # 报告生成提示词模板路径

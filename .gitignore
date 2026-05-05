@@ -19,3 +19,9 @@ __pycache__/
 
 # Claude Code 配置
 .claude/
+
+# 项目数据
+**/chroma_db/                 # Chroma 向量数据库持久化目录（含嵌套）
+**/logs/                      # 日志文件（含嵌套）
+md5.text                      # 文件 MD5 记录
+memory/                       # 本地记忆文件
